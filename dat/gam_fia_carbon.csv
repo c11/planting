@@ -1,0 +1,631 @@
+"ForestTypeGroup","AgeGroup","GamCarbon"
+"Alder / maple",0,37.0826747547952
+"Alder / maple",10,57.4945644531444
+"Alder / maple",20,77.1008983947576
+"Alder / maple",30,95.163348865481
+"Alder / maple",40,111.160858829782
+"Alder / maple",50,124.665169521616
+"Alder / maple",60,135.084397588439
+"Alder / maple",70,141.58996865254
+"Alder / maple",80,143.417919053496
+"Alder / maple",90,140.477165233675
+"Alder / maple",100,133.930630812786
+"Alder / maple",110,126.307981995974
+"Alder / maple",120,120.872369743205
+"Alder / maple",130,120.361290010132
+"Alder / maple",140,125.651976873939
+"Alder / maple",150,135.091653747931
+"Alder / maple",160,145.004860596202
+"Alder / maple",170,151.300395621871
+"Alder / maple",180,151.445147435746
+"Alder / maple",190,145.729849522233
+"Alder / maple",200,136.848831114408
+"Aspen / birch",0,23.2499741817178
+"Aspen / birch",10,29.4408716362973
+"Aspen / birch",20,36.0698851146062
+"Aspen / birch",30,43.2219931782801
+"Aspen / birch",40,50.5219812814602
+"Aspen / birch",50,57.5193212397885
+"Aspen / birch",60,64.082725845413
+"Aspen / birch",70,70.3281736138237
+"Aspen / birch",80,76.2152718093517
+"Aspen / birch",90,81.3214766134789
+"Aspen / birch",100,85.022209982576
+"Aspen / birch",110,86.7911894425562
+"Aspen / birch",120,86.2678334854871
+"Aspen / birch",130,83.1610348047259
+"Aspen / birch",140,77.3450838269278
+"Aspen / birch",150,69.2086269982231
+"Aspen / birch",160,59.7878877763565
+"Aspen / birch",170,50.1482576224559
+"Aspen / birch",180,40.5086274685554
+"Aspen / birch",190,30.8689973146548
+"Aspen / birch",200,21.229367160754
+"California mixed conifer",0,48.6763323405509
+"California mixed conifer",10,56.235879697152
+"California mixed conifer",20,63.7099872891001
+"California mixed conifer",30,71.9164305897641
+"California mixed conifer",40,82.5832117777034
+"California mixed conifer",50,96.7831138381166
+"California mixed conifer",60,113.185030880119
+"California mixed conifer",70,128.319767397711
+"California mixed conifer",80,139.341928585837
+"California mixed conifer",90,147.086838576372
+"California mixed conifer",100,156.276435478015
+"California mixed conifer",110,171.820580649411
+"California mixed conifer",120,193.75827647246
+"California mixed conifer",130,215.271491977119
+"California mixed conifer",140,226.321484348396
+"California mixed conifer",150,220.937911382191
+"California mixed conifer",160,202.69030052076
+"California mixed conifer",170,183.578526997635
+"California mixed conifer",180,176.397108807937
+"California mixed conifer",190,186.004968784934
+"California mixed conifer",200,206.653817481323
+"Douglas-fir",0,45.3536693018872
+"Douglas-fir",10,73.3482397623939
+"Douglas-fir",20,99.4607168859814
+"Douglas-fir",30,121.473358722096
+"Douglas-fir",40,137.503918727407
+"Douglas-fir",50,146.65798154252
+"Douglas-fir",60,149.325769792786
+"Douglas-fir",70,147.150784795183
+"Douglas-fir",80,142.695282910727
+"Douglas-fir",90,138.819246944155
+"Douglas-fir",100,137.868956383318
+"Douglas-fir",110,140.935582151463
+"Douglas-fir",120,147.55364793858
+"Douglas-fir",130,156.095224123173
+"Douglas-fir",140,164.755862046507
+"Douglas-fir",150,172.623929856829
+"Douglas-fir",160,180.184410216651
+"Douglas-fir",170,188.903520768502
+"Douglas-fir",180,200.134466214911
+"Douglas-fir",190,214.089419121153
+"Douglas-fir",200,229.675145567155
+"Elm / ash / cottonwood",0,20.6645393566231
+"Elm / ash / cottonwood",10,28.5299173029505
+"Elm / ash / cottonwood",20,36.3381273204604
+"Elm / ash / cottonwood",30,43.9865753413783
+"Elm / ash / cottonwood",40,51.3061781416357
+"Elm / ash / cottonwood",50,58.0480867246345
+"Elm / ash / cottonwood",60,63.8986426677349
+"Elm / ash / cottonwood",70,68.5453120687133
+"Elm / ash / cottonwood",80,71.7786221457456
+"Elm / ash / cottonwood",90,73.5764862622451
+"Elm / ash / cottonwood",100,74.1158968919682
+"Elm / ash / cottonwood",110,73.700658468966
+"Elm / ash / cottonwood",120,72.6497233917835
+"Elm / ash / cottonwood",130,71.2130071476982
+"Elm / ash / cottonwood",140,69.5527089693419
+"Elm / ash / cottonwood",150,67.7746526717527
+"Elm / ash / cottonwood",160,65.9622202551972
+"Elm / ash / cottonwood",170,64.1792008063285
+"Elm / ash / cottonwood",180,62.4490197548975
+"Elm / ash / cottonwood",190,60.7500071876758
+"Elm / ash / cottonwood",200,59.0561893678221
+"Exotic hardwoods",0,18.029674962841
+"Exotic hardwoods",10,24.7442442640896
+"Exotic hardwoods",20,31.4149643174829
+"Exotic hardwoods",30,37.9207886814838
+"Exotic hardwoods",40,44.1747815544438
+"Exotic hardwoods",50,50.0809464082228
+"Exotic hardwoods",60,55.3903834506741
+"Exotic hardwoods",70,59.845207837788
+"Exotic hardwoods",80,63.2435020545105
+"Exotic hardwoods",90,65.2575810864447
+"Exotic hardwoods",100,65.777052079149
+"Exotic hardwoods",110,65.4559399887171
+"Exotic hardwoods",120,64.9947307177625
+"Exotic hardwoods",130,64.5335214468079
+"Exotic hardwoods",140,64.0723121758532
+"Exotic hardwoods",150,63.6111029048987
+"Exotic hardwoods",160,63.1498936339441
+"Exotic hardwoods",170,62.6886843629895
+"Exotic hardwoods",180,62.2274750920349
+"Exotic hardwoods",190,61.7662658210803
+"Exotic hardwoods",200,61.3050565501257
+"Exotic softwoods",0,19.201256456324
+"Exotic softwoods",10,29.3626855238715
+"Exotic softwoods",20,39.5241145914181
+"Exotic softwoods",30,49.6855436589634
+"Exotic softwoods",40,59.8469727265073
+"Exotic softwoods",50,70.0084017940486
+"Exotic softwoods",60,80.1698308615844
+"Exotic softwoods",70,90.3312599291084
+"Exotic softwoods",80,100.492688996619
+"Exotic softwoods",90,110.654118064122
+"Exotic softwoods",100,120.815547131628
+"Exotic softwoods",110,130.976976199133
+"Exotic softwoods",120,141.138405266639
+"Exotic softwoods",130,151.299834334145
+"Exotic softwoods",140,161.461263401651
+"Exotic softwoods",150,171.622692469157
+"Exotic softwoods",160,181.784121536663
+"Exotic softwoods",170,191.945550604168
+"Exotic softwoods",180,202.106979671674
+"Exotic softwoods",190,212.26840873918
+"Exotic softwoods",200,222.429837806686
+"Fir / spruce / mountain hemlock",0,48.8130968988498
+"Fir / spruce / mountain hemlock",10,53.1010276072185
+"Fir / spruce / mountain hemlock",20,58.2321615368439
+"Fir / spruce / mountain hemlock",30,64.9128993533521
+"Fir / spruce / mountain hemlock",40,73.3131719165463
+"Fir / spruce / mountain hemlock",50,82.9098262513581
+"Fir / spruce / mountain hemlock",60,92.6754202625074
+"Fir / spruce / mountain hemlock",70,101.481787347671
+"Fir / spruce / mountain hemlock",80,108.523182087605
+"Fir / spruce / mountain hemlock",90,113.57114335841
+"Fir / spruce / mountain hemlock",100,116.96639495548
+"Fir / spruce / mountain hemlock",110,119.394026499026
+"Fir / spruce / mountain hemlock",120,121.598761530922
+"Fir / spruce / mountain hemlock",130,124.20711514977
+"Fir / spruce / mountain hemlock",140,127.723686259772
+"Fir / spruce / mountain hemlock",150,132.627615647506
+"Fir / spruce / mountain hemlock",160,139.415450316541
+"Fir / spruce / mountain hemlock",170,148.482612392904
+"Fir / spruce / mountain hemlock",180,159.881740642363
+"Fir / spruce / mountain hemlock",190,173.140874579116
+"Fir / spruce / mountain hemlock",200,187.364185052238
+"Hemlock / Sitka spruce",0,37.0174851660987
+"Hemlock / Sitka spruce",10,74.7435806259318
+"Hemlock / Sitka spruce",20,112.218648115259
+"Hemlock / Sitka spruce",30,147.950442970948
+"Hemlock / Sitka spruce",40,179.068947962084
+"Hemlock / Sitka spruce",50,202.53887455073
+"Hemlock / Sitka spruce",60,216.913008762312
+"Hemlock / Sitka spruce",70,223.321920895154
+"Hemlock / Sitka spruce",80,224.921183964817
+"Hemlock / Sitka spruce",90,225.181639257872
+"Hemlock / Sitka spruce",100,226.267911125889
+"Hemlock / Sitka spruce",110,228.613095693942
+"Hemlock / Sitka spruce",120,231.802063863932
+"Hemlock / Sitka spruce",130,235.860175405444
+"Hemlock / Sitka spruce",140,241.82919651666
+"Hemlock / Sitka spruce",150,251.219398215114
+"Hemlock / Sitka spruce",160,264.907608449449
+"Hemlock / Sitka spruce",170,282.468801626454
+"Hemlock / Sitka spruce",180,302.476593562543
+"Hemlock / Sitka spruce",190,323.441332497957
+"Hemlock / Sitka spruce",200,344.554313066226
+"Loblolly / shortleaf pine",0,43.9020850457199
+"Loblolly / shortleaf pine",10,56.9763524750953
+"Loblolly / shortleaf pine",20,69.2567331462361
+"Loblolly / shortleaf pine",30,79.9037871923056
+"Loblolly / shortleaf pine",40,88.3085202700063
+"Loblolly / shortleaf pine",50,94.25013606453
+"Loblolly / shortleaf pine",60,97.8005214831229
+"Loblolly / shortleaf pine",70,99.0921156562721
+"Loblolly / shortleaf pine",80,98.1886658487777
+"Loblolly / shortleaf pine",90,95.2148532213673
+"Loblolly / shortleaf pine",100,90.6151262525455
+"Loblolly / shortleaf pine",110,85.2126101447064
+"Loblolly / shortleaf pine",120,79.8917082977436
+"Loblolly / shortleaf pine",130,75.1263398126994
+"Loblolly / shortleaf pine",140,70.7978086788311
+"Loblolly / shortleaf pine",150,66.5139084475343
+"Loblolly / shortleaf pine",160,62.0513314109704
+"Loblolly / shortleaf pine",170,57.3280404469224
+"Loblolly / shortleaf pine",180,52.5470158678895
+"Loblolly / shortleaf pine",190,47.7659912888567
+"Loblolly / shortleaf pine",200,42.9849667098238
+"Lodgepole pine",0,38.6917430759631
+"Lodgepole pine",10,43.0545993914085
+"Lodgepole pine",20,47.5175574411501
+"Lodgepole pine",30,52.1733823929265
+"Lodgepole pine",40,57.0611551884665
+"Lodgepole pine",50,62.1404192714286
+"Lodgepole pine",60,67.3016705638562
+"Lodgepole pine",70,72.4027436055403
+"Lodgepole pine",80,77.3125861809733
+"Lodgepole pine",90,81.9425954330284
+"Lodgepole pine",100,86.253406774373
+"Lodgepole pine",110,90.2388464255675
+"Lodgepole pine",120,93.9012032865134
+"Lodgepole pine",130,97.2354390798404
+"Lodgepole pine",140,100.232116513837
+"Lodgepole pine",150,102.894885738785
+"Lodgepole pine",160,105.257877248039
+"Lodgepole pine",170,107.388516130362
+"Lodgepole pine",180,109.371707325465
+"Lodgepole pine",190,111.284349215024
+"Lodgepole pine",200,113.175548047141
+"Longleaf / slash pine",0,37.1663127023573
+"Longleaf / slash pine",10,47.2430536602952
+"Longleaf / slash pine",20,56.841406614534
+"Longleaf / slash pine",30,65.493659558475
+"Longleaf / slash pine",40,72.9471279277102
+"Longleaf / slash pine",50,79.1585813153004
+"Longleaf / slash pine",60,84.0474103030254
+"Longleaf / slash pine",70,87.4619934157719
+"Longleaf / slash pine",80,89.4419196858419
+"Longleaf / slash pine",90,90.2290246089769
+"Longleaf / slash pine",100,89.9275855245349
+"Longleaf / slash pine",110,88.5105738539579
+"Longleaf / slash pine",120,86.309009186635
+"Longleaf / slash pine",130,83.9609850430914
+"Longleaf / slash pine",140,81.6129608995479
+"Longleaf / slash pine",150,79.2649367560044
+"Longleaf / slash pine",160,76.9169126124608
+"Longleaf / slash pine",170,74.5688884689173
+"Longleaf / slash pine",180,72.2208643253737
+"Longleaf / slash pine",190,69.8728401818302
+"Longleaf / slash pine",200,67.5248160382866
+"Maple / beech / birch",0,24.5490199120003
+"Maple / beech / birch",10,33.9643125615076
+"Maple / beech / birch",20,43.6609327336205
+"Maple / beech / birch",30,53.7934337333876
+"Maple / beech / birch",40,64.2515405956902
+"Maple / beech / birch",50,74.6976377447988
+"Maple / beech / birch",60,84.7232466586906
+"Maple / beech / birch",70,93.9749491169582
+"Maple / beech / birch",80,102.183744772631
+"Maple / beech / birch",90,109.151773410038
+"Maple / beech / birch",100,114.784040051635
+"Maple / beech / birch",110,119.173233889989
+"Maple / beech / birch",120,122.647546593966
+"Maple / beech / birch",130,125.690074136357
+"Maple / beech / birch",140,128.747387655929
+"Maple / beech / birch",150,132.057842781747
+"Maple / beech / birch",160,135.628531038967
+"Maple / beech / birch",170,139.366965797718
+"Maple / beech / birch",180,143.220450485978
+"Maple / beech / birch",190,147.150635127245
+"Maple / beech / birch",200,151.119169745014
+"Oak / gum / cypress",0,14.6977251501108
+"Oak / gum / cypress",10,32.7185992409897
+"Oak / gum / cypress",20,46.6943035378612
+"Oak / gum / cypress",30,56.9652427537124
+"Oak / gum / cypress",40,68.2524810255338
+"Oak / gum / cypress",50,83.2730011119124
+"Oak / gum / cypress",60,98.4352870561833
+"Oak / gum / cypress",70,108.227457813521
+"Oak / gum / cypress",80,113.140044725174
+"Oak / gum / cypress",90,120.166102694199
+"Oak / gum / cypress",100,133.532822024013
+"Oak / gum / cypress",110,146.591503626429
+"Oak / gum / cypress",120,146.74788814421
+"Oak / gum / cypress",130,130.744710618868
+"Oak / gum / cypress",140,113.597497036142
+"Oak / gum / cypress",150,118.527038237448
+"Oak / gum / cypress",160,155.090353080344
+"Oak / gum / cypress",170,210.001527049026
+"Oak / gum / cypress",180,267.970677538672
+"Oak / gum / cypress",190,325.93982802832
+"Oak / gum / cypress",200,383.908978517967
+"Oak / hickory",0,18.6624521248933
+"Oak / hickory",10,28.9765407121141
+"Oak / hickory",20,39.1444783571448
+"Oak / hickory",30,49.1466102771604
+"Oak / hickory",40,59.1573524012533
+"Oak / hickory",50,69.3659598525017
+"Oak / hickory",60,79.6654471408613
+"Oak / hickory",70,89.4958018564533
+"Oak / hickory",80,98.0055721998511
+"Oak / hickory",90,104.42409948944
+"Oak / hickory",100,108.368232769615
+"Oak / hickory",110,109.894965319427
+"Oak / hickory",120,109.365166810332
+"Oak / hickory",130,107.353855706074
+"Oak / hickory",140,104.75432769161
+"Oak / hickory",150,102.949280865465
+"Oak / hickory",160,103.729863968887
+"Oak / hickory",170,108.75789726145
+"Oak / hickory",180,118.751276914562
+"Oak / hickory",190,132.935068933393
+"Oak / hickory",200,149.330325259047
+"Oak / pine",0,26.0731076103608
+"Oak / pine",10,37.4255929763221
+"Oak / pine",20,48.5202628276049
+"Oak / pine",30,59.0307428579638
+"Oak / pine",40,68.6612009479316
+"Oak / pine",50,77.2282269446186
+"Oak / pine",60,84.5843757770415
+"Oak / pine",70,90.504143937672
+"Oak / pine",80,94.7655935026916
+"Oak / pine",90,97.3723425790625
+"Oak / pine",100,98.5792362327605
+"Oak / pine",110,98.623252084115
+"Oak / pine",120,97.5356110140015
+"Oak / pine",130,95.363663772278
+"Oak / pine",140,92.5089340697997
+"Oak / pine",150,89.5318723642892
+"Oak / pine",160,86.5548106587786
+"Oak / pine",170,83.577748953268
+"Oak / pine",180,80.6006872477574
+"Oak / pine",190,77.6236255422468
+"Oak / pine",200,74.6465638367362
+"Other eastern softwoods",0,18.5952524988037
+"Other eastern softwoods",10,20.810177330292
+"Other eastern softwoods",20,24.2179906120036
+"Other eastern softwoods",30,29.1425812517978
+"Other eastern softwoods",40,34.8150970932928
+"Other eastern softwoods",50,39.7514980105005
+"Other eastern softwoods",60,42.4816829805488
+"Other eastern softwoods",70,42.5382350882278
+"Other eastern softwoods",80,40.0676564342698
+"Other eastern softwoods",90,34.4169149574607
+"Other eastern softwoods",100,25.0319832633582
+"Other eastern softwoods",110,13.5046347492358
+"Other eastern softwoods",120,1.62021676510998
+"Other eastern softwoods",130,-10.2642012190158
+"Other eastern softwoods",140,-22.1486192031416
+"Other eastern softwoods",150,-34.0330371872673
+"Other eastern softwoods",160,-45.9174551713932
+"Other eastern softwoods",170,-57.8018731555188
+"Other eastern softwoods",180,-69.6862911396444
+"Other eastern softwoods",190,-81.5707091237704
+"Other eastern softwoods",200,-93.4551271078961
+"Other hardwoods",0,27.5454235272304
+"Other hardwoods",10,22.8275260299549
+"Other hardwoods",20,26.1059591089055
+"Other hardwoods",30,36.7253596094709
+"Other hardwoods",40,46.1962152300087
+"Other hardwoods",50,50.5545033734605
+"Other hardwoods",60,56.955528816822
+"Other hardwoods",70,73.5624525378666
+"Other hardwoods",80,95.2291706698464
+"Other hardwoods",90,105.689663453414
+"Other hardwoods",100,97.1764161005449
+"Other hardwoods",110,84.243122707876
+"Other hardwoods",120,91.8809185386109
+"Other hardwoods",130,128.015137200933
+"Other hardwoods",140,172.182099441456
+"Other hardwoods",150,198.332097562282
+"Other hardwoods",160,204.198914367448
+"Other hardwoods",170,193.83918612009
+"Other hardwoods",180,171.309549083339
+"Other hardwoods",190,140.666639520321
+"Other hardwoods",200,105.967093694172
+"Other western softwoods",0,38.4200147276471
+"Other western softwoods",10,34.9142422045611
+"Other western softwoods",20,31.5928847568899
+"Other western softwoods",30,28.6915970589811
+"Other western softwoods",40,26.4492084171988
+"Other western softwoods",50,25.0521983140267
+"Other western softwoods",60,24.6027321016021
+"Other western softwoods",70,25.1096456028241
+"Other western softwoods",80,26.4980967026631
+"Other western softwoods",90,28.6307674678543
+"Other western softwoods",100,31.332738041999
+"Other western softwoods",110,34.4138521726878
+"Other western softwoods",120,37.6858059579385
+"Other western softwoods",130,40.9747162035678
+"Other western softwoods",140,44.1318863677472
+"Other western softwoods",150,47.0450038286364
+"Other western softwoods",160,49.6494636462986
+"Other western softwoods",170,51.9364011838371
+"Other western softwoods",180,53.9521385746315
+"Other western softwoods",190,55.7843116815624
+"Other western softwoods",200,57.5328970687641
+"Pinyon / juniper",0,14.7855564181145
+"Pinyon / juniper",10,14.6797794757371
+"Pinyon / juniper",20,14.9311531716303
+"Pinyon / juniper",30,15.822273106821
+"Pinyon / juniper",40,17.3892955501325
+"Pinyon / juniper",50,19.3776289186767
+"Pinyon / juniper",60,21.35978867001
+"Pinyon / juniper",70,22.9354805093653
+"Pinyon / juniper",80,23.9068055578911
+"Pinyon / juniper",90,24.3411096937504
+"Pinyon / juniper",100,24.4965853951666
+"Pinyon / juniper",110,24.6614767413854
+"Pinyon / juniper",120,25.004489342397
+"Pinyon / juniper",130,25.5224970881232
+"Pinyon / juniper",140,26.1069095443457
+"Pinyon / juniper",150,26.6722949847494
+"Pinyon / juniper",160,27.2512798632293
+"Pinyon / juniper",170,27.9860546595829
+"Pinyon / juniper",180,29.0225307371142
+"Pinyon / juniper",190,30.387609969673
+"Pinyon / juniper",200,31.9536263443568
+"Ponderosa pine",0,30.2126391702077
+"Ponderosa pine",10,34.6219477289314
+"Ponderosa pine",20,39.1222470937855
+"Ponderosa pine",30,43.7268311996355
+"Ponderosa pine",40,48.3206969591277
+"Ponderosa pine",50,52.7066746145901
+"Ponderosa pine",60,56.7097567780787
+"Ponderosa pine",70,60.2523273890355
+"Ponderosa pine",80,63.346696108483
+"Ponderosa pine",90,66.0249786186364
+"Ponderosa pine",100,68.2794648495874
+"Ponderosa pine",110,70.0755296581249
+"Ponderosa pine",120,71.4340177760947
+"Ponderosa pine",130,72.5159642212081
+"Ponderosa pine",140,73.6329747259336
+"Ponderosa pine",150,75.159170221916
+"Ponderosa pine",160,77.39215553075
+"Ponderosa pine",170,80.4447341833176
+"Ponderosa pine",180,84.2235569656536
+"Ponderosa pine",190,88.4930473810294
+"Ponderosa pine",200,92.9833464336487
+"Redwood",0,42.0276739912757
+"Redwood",10,87.1176468724938
+"Redwood",20,125.42548323462
+"Redwood",30,154.401824514539
+"Redwood",40,178.7462943594
+"Redwood",50,205.623835475129
+"Redwood",60,236.992322404592
+"Redwood",70,268.298293701578
+"Redwood",80,295.476481471045
+"Redwood",90,322.115572126174
+"Redwood",100,357.001604815848
+"Redwood",110,401.967482384087
+"Redwood",120,441.947573176739
+"Redwood",130,450.521134862402
+"Redwood",140,411.37889641071
+"Redwood",150,339.550094409766
+"Redwood",160,280.631520892874
+"Redwood",170,280.741901285452
+"Redwood",180,363.395044614956
+"Redwood",190,535.109322249267
+"Redwood",200,757.026271316017
+"Spruce / fir",0,29.773751999703
+"Spruce / fir",10,33.5577764168223
+"Spruce / fir",20,37.3122424018653
+"Spruce / fir",30,40.9970440416351
+"Spruce / fir",40,44.5667546465211
+"Spruce / fir",50,47.9768278567626
+"Spruce / fir",60,51.1865987573253
+"Spruce / fir",70,54.1606875761833
+"Spruce / fir",80,56.8705204702075
+"Spruce / fir",90,59.2967318851571
+"Spruce / fir",100,61.4320431579543
+"Spruce / fir",110,63.2836286932279
+"Spruce / fir",120,64.8741271377649
+"Spruce / fir",130,66.2408576668809
+"Spruce / fir",140,67.4329753572405
+"Spruce / fir",150,68.5062892634078
+"Spruce / fir",160,69.5157907689167
+"Spruce / fir",170,70.5069757979032
+"Spruce / fir",180,71.5084498998083
+"Spruce / fir",190,72.5290841935879
+"Spruce / fir",200,73.5622643311591
+"Tanoak / laurel",0,67.6763389613583
+"Tanoak / laurel",10,85.0943563184103
+"Tanoak / laurel",20,102.465651512957
+"Tanoak / laurel",30,119.636726198051
+"Tanoak / laurel",40,136.305074677686
+"Tanoak / laurel",50,152.050050386441
+"Tanoak / laurel",60,166.41111443194
+"Tanoak / laurel",70,178.967615111076
+"Tanoak / laurel",80,189.390188256302
+"Tanoak / laurel",90,197.471460480462
+"Tanoak / laurel",100,203.162793217195
+"Tanoak / laurel",110,206.62278639402
+"Tanoak / laurel",120,208.242106816729
+"Tanoak / laurel",130,208.592880035366
+"Tanoak / laurel",140,208.286993049886
+"Tanoak / laurel",150,207.796340265671
+"Tanoak / laurel",160,207.333430829476
+"Tanoak / laurel",170,206.867244832074
+"Tanoak / laurel",180,206.26373626124
+"Tanoak / laurel",190,205.452693696426
+"Tanoak / laurel",200,204.499648414268
+"Tropical hardwoods",0,15.095821651703
+"Tropical hardwoods",10,18.3682930443984
+"Tropical hardwoods",20,24.1270605673184
+"Tropical hardwoods",30,31.5742868357705
+"Tropical hardwoods",40,42.4607973945443
+"Tropical hardwoods",50,59.1690402720842
+"Tropical hardwoods",60,76.1577494443848
+"Tropical hardwoods",70,85.3472120973808
+"Tropical hardwoods",80,84.6676999041119
+"Tropical hardwoods",90,74.7064984926787
+"Tropical hardwoods",100,57.7422830949348
+"Tropical hardwoods",110,39.4169017812934
+"Tropical hardwoods",120,21.0915204676521
+"Tropical hardwoods",130,2.76613915401037
+"Tropical hardwoods",140,-15.559242159631
+"Tropical hardwoods",150,-33.8846234732723
+"Tropical hardwoods",160,-52.2100047869143
+"Tropical hardwoods",170,-70.5353861005551
+"Tropical hardwoods",180,-88.8607674141967
+"Tropical hardwoods",190,-107.186148727839
+"Tropical hardwoods",200,-125.511530041478
+"Western larch",0,39.1820739441887
+"Western larch",10,47.1999567208658
+"Western larch",20,55.8503699827754
+"Western larch",30,65.6375463561499
+"Western larch",40,76.6159435454131
+"Western larch",50,88.2609987861842
+"Western larch",60,99.6272345939343
+"Western larch",70,109.70486860576
+"Western larch",80,117.800769830516
+"Western larch",90,123.747621218283
+"Western larch",100,127.836771664465
+"Western larch",110,130.542380205811
+"Western larch",120,132.24325212
+"Western larch",130,133.142228357368
+"Western larch",140,133.42060848458
+"Western larch",150,133.464006497334
+"Western larch",160,133.918224802902
+"Western larch",170,135.454054159362
+"Western larch",180,138.355470122449
+"Western larch",190,142.333153751124
+"Western larch",200,146.930563611209
+"Western oak",0,36.6063300523434
+"Western oak",10,41.6463689325569
+"Western oak",20,46.7008538718485
+"Western oak",30,51.7713800736356
+"Western oak",40,56.8322125112265
+"Western oak",50,61.8238870870444
+"Western oak",60,66.6597439620888
+"Western oak",70,71.2460081548235
+"Western oak",80,75.5087730204556
+"Western oak",90,79.4142851195146
+"Western oak",100,82.9703269721791
+"Western oak",110,86.2081622379719
+"Western oak",120,89.1588008950443
+"Western oak",130,91.8423913176032
+"Western oak",140,94.2795033225975
+"Western oak",150,96.5143727100266
+"Western oak",160,98.6276658307015
+"Western oak",170,100.721483731453
+"Western oak",180,102.880226753468
+"Western oak",190,105.132626722438
+"Western oak",200,107.44614583307
+"Western white pine",0,49.4729044897533
+"Western white pine",10,52.279144727423
+"Western white pine",20,55.0705973068436
+"Western white pine",30,57.8304892730649
+"Western white pine",40,60.5341064843328
+"Western white pine",50,63.1507743811805
+"Western white pine",60,65.6339179200963
+"Western white pine",70,67.9339883086831
+"Western white pine",80,70.0103811251387
+"Western white pine",90,71.8495996804976
+"Western white pine",100,73.4719262402092
+"Western white pine",110,74.9177408737415
+"Western white pine",120,76.2247479367923
+"Western white pine",130,77.4062019583125
+"Western white pine",140,78.4692450105666
+"Western white pine",150,79.4227719725111
+"Western white pine",160,80.2853611354108
+"Western white pine",170,81.0881171692418
+"Western white pine",180,81.8651562489829
+"Western white pine",190,82.6442722077751
+"Western white pine",200,83.4276301919447
+"White / red / jack pine",0,21.3766837815718
+"White / red / jack pine",10,32.6225935174842
+"White / red / jack pine",20,43.5322472329531
+"White / red / jack pine",30,54.3294588064854
+"White / red / jack pine",40,65.7607604198322
+"White / red / jack pine",50,78.1612041812964
+"White / red / jack pine",60,90.4619021259663
+"White / red / jack pine",70,100.289583061152
+"White / red / jack pine",80,105.429848774079
+"White / red / jack pine",90,105.641299509191
+"White / red / jack pine",100,103.296197010481
+"White / red / jack pine",110,102.134876240934
+"White / red / jack pine",120,104.929679228181
+"White / red / jack pine",130,111.775914692193
+"White / red / jack pine",140,120.252725550685
+"White / red / jack pine",150,127.218021248733
+"White / red / jack pine",160,130.77337130491
+"White / red / jack pine",170,130.966895734443
+"White / red / jack pine",180,128.978008391791
+"White / red / jack pine",190,125.942500553424
+"White / red / jack pine",200,122.750553717438
+"Woodland hardwoods",0,20.3017114497225
+"Woodland hardwoods",10,17.2241736889266
+"Woodland hardwoods",20,15.0370689404917
+"Woodland hardwoods",30,14.3463004946205
+"Woodland hardwoods",40,15.1005435265043
+"Woodland hardwoods",50,16.722556266848
+"Woodland hardwoods",60,18.6204731201233
+"Woodland hardwoods",70,20.5999686741545
+"Woodland hardwoods",80,22.8491122829453
+"Woodland hardwoods",90,25.553709219197
+"Woodland hardwoods",100,28.5083522446474
+"Woodland hardwoods",110,31.0754212567112
+"Woodland hardwoods",120,32.5395971052977
+"Woodland hardwoods",130,32.5749027434084
+"Woodland hardwoods",140,31.457795271772
+"Woodland hardwoods",150,29.8770522442298
+"Woodland hardwoods",160,28.5110211188324
+"Woodland hardwoods",170,27.6963512576326
+"Woodland hardwoods",180,27.3911955067795
+"Woodland hardwoods",190,27.3733597627325
+"Woodland hardwoods",200,27.4525066506732
